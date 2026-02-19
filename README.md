@@ -31,5 +31,6 @@ Becoming a Cloud Data Architect (Azure + AWS multi-cloud platforms).
 
 📬 Let’s connect  
 LinkedIn: linkedin.com/in/sivaji-p-71b396301
+
 Email: popurisivaji@gmail.com
 
