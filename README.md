@@ -1,27 +1,35 @@
 👋 Hi, I’m Sivaji Popuri
 
+
 🚀 Data Engineer | Azure ☁️ | Databricks 🔷 | Snowflake ❄️
 💼 5+ years building production-grade data pipelines
 
 I care deeply about reliability, scalability, and cost efficiency — with strong focus on testing, monitoring, security, and performance optimization.
+
+
 
 🛠️ What I Work On
 
 🔹 Batch & Incremental Data Pipelines
 ADF • Databricks Workflows/Jobs • Automated orchestration
 
+
 🔹 Lakehouse Architecture
 Bronze 🥉 / Silver 🥈 / Gold 🥇 layers
 Delta Tables • PySpark transformations • Performance tuning
 
+
 🔹 Snowflake ELT Engineering
 Snowpipe ⚡ • Warehouse optimization • Cost guardrails 💰
+
 
 🔹 Data Quality & Migration
 Reconciliation frameworks • Parallel-run validation • Governance
 
+
 🔹 Observability & Reliability Engineering
 Logs 📜 • Metrics 📊 • Alerting 🚨 • Runbooks 📘
+
 
 🌟 Featured Projects (Pinned Below)
 
