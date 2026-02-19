@@ -3,6 +3,7 @@ Data Engineer | Azure ☁️ | Databricks 🔷 | Snowflake ❄️
 
 I build production data platforms that are reliable, secure, and cost-efficient.
 
+---
 
 Right now I’m working on:
 
